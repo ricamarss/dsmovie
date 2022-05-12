@@ -1,4 +1,4 @@
-import { ReactComponent as GithubIcon } from '../../assets/img/Vector.svg';
+import { ReactComponent as GithubIcon } from 'assets/img/Vector.svg';
 import 'bootstrap/dist/css/bootstrap.css';
 import './styles.css'
 
